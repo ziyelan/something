@@ -3,6 +3,8 @@
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
+#9月21日修复
+
 # 首先声明一下
 
 ### 本项目为 https://github.com/Lbingyi/HerokuXray 大佬的heroku项目修改，因为有人反映同时fork二者会有冲突，我才将此重新上传改为本人的项目
